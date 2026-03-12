@@ -1,10 +1,38 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Berry",
+    "paletteId": "Obsidian",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260312-185549-fuyd",
+      "title": "Serial Kingu",
+      "commanders": [
+        "Serial Kingu"
+      ],
+      "dateStart": "2026-03-12T18:55:49.000Z",
+      "dateEnd": "2026-03-12T20:31:02.000Z",
+      "dateLabel": "12/03/2026 18:55:49 - 12/03/2026 20:31:02",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260312-185549-fuyd",
+      "summary": {
+        "borderlandsPct": 0.08888888888888889,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20260310-180551-v1vf",
       "title": "Human Tamed A Cat, Might Be A Spoon, Wee Output",
