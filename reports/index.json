@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260316-192913-k6h9",
+      "title": "Serial Pinkshot",
+      "commanders": [
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-03-16T19:29:13.000Z",
+      "dateEnd": "2026-03-16T20:28:22.000Z",
+      "dateLabel": "16/03/2026 19:29:13 - 16/03/2026 20:28:22",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260316-192913-k6h9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260312-185549-fuyd",
       "title": "Serial Kingu",
       "commanders": [
