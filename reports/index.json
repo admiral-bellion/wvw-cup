@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260326-192628-5ie7",
+      "title": "Dalaxis, Serial Pinkshot",
+      "commanders": [
+        "Dalaxis",
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-03-26T18:26:28.000Z",
+      "dateEnd": "2026-03-26T19:54:50.000Z",
+      "dateLabel": "26/03/2026 19:26:28 - 26/03/2026 20:54:50",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260326-192628-5ie7",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260323-194240-2aag",
       "title": "Flowsn, Nekrofodl",
       "commanders": [
