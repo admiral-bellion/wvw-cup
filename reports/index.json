@@ -1,10 +1,33 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Dark Pearl",
+    "paletteId": "Arcane",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260406-184745-ojtk",
+      "title": "Confused Serial",
+      "commanders": [
+        "Confused Serial"
+      ],
+      "dateStart": "2026-04-06T17:47:45.000Z",
+      "dateEnd": "2026-04-06T19:36:45.000Z",
+      "dateLabel": "06/04/2026 18:47:45 - 06/04/2026 20:36:45",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260406-184745-ojtk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260402-185632-e0ty",
       "title": "Dalaxis",
