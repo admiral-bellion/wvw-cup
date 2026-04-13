@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260413-183332-1mez",
+      "title": "Dalaxis, Serial Attuned",
+      "commanders": [
+        "Dalaxis",
+        "Serial Attuned"
+      ],
+      "dateStart": "2026-04-13T17:33:32.000Z",
+      "dateEnd": "2026-04-13T19:25:39.000Z",
+      "dateLabel": "13/04/2026 18:33:32 - 13/04/2026 20:25:39",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260413-183332-1mez",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260408-191213-3sl0",
       "title": "Yoloola",
       "commanders": [
