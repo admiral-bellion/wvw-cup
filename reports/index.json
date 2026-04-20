@@ -1,7 +1,30 @@
 {
-  "colorPalette": "slate-silver",
+  "colorPalette": "amber-warm",
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260420-183748-qidm",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-04-20T17:37:48.000Z",
+      "dateEnd": "2026-04-20T19:22:56.000Z",
+      "dateLabel": "20/04/2026 18:37:48 - 20/04/2026 20:22:56",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260420-183748-qidm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20260416-191637-v0ma",
       "title": "Liless",
