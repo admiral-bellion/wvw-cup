@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260430-191306-8nk8",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-04-30T18:13:06.000Z",
+      "dateEnd": "2026-04-30T19:13:37.000Z",
+      "dateLabel": "30/04/2026 19:13:06 - 30/04/2026 20:13:37",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260430-191306-8nk8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260427-191120-48f1",
       "title": "Dalaxis, Serial Pinkshot",
       "commanders": [
