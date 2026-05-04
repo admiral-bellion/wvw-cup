@@ -1,7 +1,36 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260504-193014-fzo3",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-05-04T18:30:14.000Z",
+      "dateEnd": "2026-05-04T19:32:22.000Z",
+      "dateLabel": "04/05/2026 19:30:14 - 04/05/2026 20:32:22",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260504-193014-fzo3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20260430-191306-8nk8",
       "title": "Dalaxis",
