@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-182006-64x0",
+      "title": "Dalaxis, Flowsn",
+      "commanders": [
+        "Dalaxis",
+        "Flowsn"
+      ],
+      "dateStart": "2026-05-16T17:20:06.000Z",
+      "dateEnd": "2026-05-16T19:24:27.000Z",
+      "dateLabel": "16/05/2026 18:20:06 - 16/05/2026 20:24:27",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260516-182006-64x0",
+      "summary": {
+        "borderlandsPct": 0.12195121951219512,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260511-183241-bosm",
       "title": "Serial Pinkshot",
       "commanders": [
