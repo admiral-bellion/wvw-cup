@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260518-183937-iwxb",
+      "title": "Serial Pinkshot",
+      "commanders": [
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-05-18T17:39:37.000Z",
+      "dateEnd": "2026-05-18T19:24:18.000Z",
+      "dateLabel": "18/05/2026 18:39:37 - 18/05/2026 20:24:18",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260518-183937-iwxb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260516-182006-64x0",
       "title": "Dalaxis, Flowsn",
       "commanders": [
