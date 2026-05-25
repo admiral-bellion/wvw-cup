@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-195108-3qw3",
+      "title": "Serial Pinkshot",
+      "commanders": [
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-05-25T18:51:08.000Z",
+      "dateEnd": "2026-05-25T19:29:18.000Z",
+      "dateLabel": "25/05/2026 19:51:08 - 25/05/2026 20:29:18",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260525-195108-3qw3",
+      "summary": {
+        "borderlandsPct": 0.17647058823529413,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260521-183730-s92n",
       "title": "Confused Serial, Serial Derp",
       "commanders": [
