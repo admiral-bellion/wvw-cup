@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260528-190838-ls6d",
+      "title": "Serial Attuned",
+      "commanders": [
+        "Serial Attuned"
+      ],
+      "dateStart": "2026-05-28T18:08:38.000Z",
+      "dateEnd": "2026-05-28T19:24:34.000Z",
+      "dateLabel": "28/05/2026 19:08:38 - 28/05/2026 20:24:34",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260528-190838-ls6d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260525-195108-3qw3",
       "title": "Serial Pinkshot",
       "commanders": [
