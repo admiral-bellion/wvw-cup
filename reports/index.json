@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-184623-sdad",
+      "title": "Serial Attuned",
+      "commanders": [
+        "Serial Attuned"
+      ],
+      "dateStart": "2026-06-04T17:46:23.000Z",
+      "dateEnd": "2026-06-04T19:21:43.000Z",
+      "dateLabel": "04/06/2026 18:46:23 - 04/06/2026 20:21:43",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260604-184623-sdad",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260528-190838-ls6d",
       "title": "Serial Attuned",
       "commanders": [
