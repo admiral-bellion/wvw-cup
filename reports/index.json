@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-184045-4jyc",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-06-08T17:40:45.000Z",
+      "dateEnd": "2026-06-08T19:27:20.000Z",
+      "dateLabel": "08/06/2026 18:40:45 - 08/06/2026 20:27:20",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260608-184045-4jyc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260604-184623-sdad",
       "title": "Serial Attuned",
       "commanders": [
