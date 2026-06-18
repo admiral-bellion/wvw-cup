@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260618-183348-dxu4",
+      "title": "Dalaxis, Flowsn, Serial Sugar Daddy",
+      "commanders": [
+        "Dalaxis",
+        "Flowsn",
+        "Serial Sugar Daddy"
+      ],
+      "dateStart": "2026-06-18T17:33:48.000Z",
+      "dateEnd": "2026-06-18T19:29:22.000Z",
+      "dateLabel": "18/06/2026 18:33:48 - 18/06/2026 20:29:22",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260618-183348-dxu4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260615-194828-716n",
       "title": "Flowsn",
       "commanders": [
