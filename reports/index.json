@@ -1,8 +1,41 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260629-191717-epwp",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-06-29T18:17:17.000Z",
+      "dateEnd": "2026-06-29T19:28:13.000Z",
+      "dateLabel": "29/06/2026 19:17:17 - 29/06/2026 20:28:13",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260629-191717-epwp",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20260625-193429-u5as",
       "title": "Flowsn",
