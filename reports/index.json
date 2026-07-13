@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260713-190948-v40i",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-07-13T18:09:48.000Z",
+      "dateEnd": "2026-07-13T19:32:41.000Z",
+      "dateLabel": "13/07/2026 19:09:48 - 13/07/2026 20:32:41",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260713-190948-v40i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260702-185325-wuta",
       "title": "Flowsn",
       "commanders": [
