@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260723-183728-auaz",
+      "title": "Serial Pinkshot",
+      "commanders": [
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-07-23T17:37:28.000Z",
+      "dateEnd": "2026-07-23T19:28:11.000Z",
+      "dateLabel": "23/07/2026 18:37:28 - 23/07/2026 20:28:11",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260723-183728-auaz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260722-195845-bwb5",
       "title": "Serial Pinkshot",
       "commanders": [
