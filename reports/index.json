@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260727-200314-rhrp",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-07-27T19:03:14.000Z",
+      "dateEnd": "2026-07-27T19:29:26.000Z",
+      "dateLabel": "27/07/2026 20:03:14 - 27/07/2026 20:29:26",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260727-200314-rhrp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 45,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260723-183728-auaz",
       "title": "Serial Pinkshot",
       "commanders": [
