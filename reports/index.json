@@ -4,6 +4,41 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260730-140548-96im",
+      "title": "Flowsn, Raegton Cengâver, W O N D E R F U L",
+      "commanders": [
+        "Flowsn",
+        "Raegton Cengâver",
+        "W O N D E R F U L"
+      ],
+      "dateStart": "2026-07-30T13:05:48.000Z",
+      "dateEnd": "2026-07-30T19:19:38.000Z",
+      "dateLabel": "30/07/2026 14:05:48 - 30/07/2026 20:19:38",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260730-140548-96im",
+      "summary": {
+        "borderlandsPct": 0.4230769230769231,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260727-200314-rhrp",
       "title": "Flowsn",
       "commanders": [
