@@ -4,6 +4,46 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260806-183142-hex0",
+      "title": "Flowsn, Just Mad N Fluffy, Ragequitterr",
+      "commanders": [
+        "Flowsn",
+        "Just Mad N Fluffy",
+        "Ragequitterr"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-06T17:31:42.000Z",
+      "dateEnd": "2026-08-06T19:26:09.000Z",
+      "dateLabel": "06/08/2026 18:31:42 - 06/08/2026 20:26:09",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260806-183142-hex0",
+      "summary": {
+        "borderlandsPct": 0.9722222222222222,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260803-195816-nfbg",
       "title": "Flowsn, Mrs Serial",
       "commanders": [
