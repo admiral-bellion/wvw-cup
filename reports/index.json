@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260810-183637-r3pe",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-10T17:36:37.000Z",
+      "dateEnd": "2026-08-10T19:19:01.000Z",
+      "dateLabel": "10/08/2026 18:36:37 - 10/08/2026 20:19:01",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260810-183637-r3pe",
+      "summary": {
+        "borderlandsPct": 0.15625,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260808-190600-gsrb",
       "title": "Flowsn",
       "commanders": [
