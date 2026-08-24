@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260824-192754-3905",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-08-24T18:27:54.000Z",
+      "dateEnd": "2026-08-24T19:17:09.480Z",
+      "dateLabel": "24/08/2026 19:27:54 - 24/08/2026 20:17:09",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260824-192754-3905",
+      "summary": {
+        "borderlandsPct": 0.391304347826087,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260820-195205-mix7",
       "title": "Flowsn, Ragequitterr",
       "commanders": [
