@@ -4,6 +4,45 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260827-193048-autu",
+      "title": "Andaras Will, Flowsn",
+      "commanders": [
+        "Andaras Will",
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-27T18:30:48.000Z",
+      "dateEnd": "2026-08-27T19:33:49.076Z",
+      "dateLabel": "27/08/2026 19:30:48 - 27/08/2026 20:33:49",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20260827-193048-autu",
+      "summary": {
+        "borderlandsPct": 0.95,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260824-192754-3905",
       "title": "Flowsn",
       "commanders": [
