@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.5"
   },
   "entries": [
+    {
+      "id": "20261012-174735-27xn",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-10-12T17:47:35.000Z",
+      "dateEnd": "2026-10-12T19:24:50.618Z",
+      "dateLabel": "12/10/2026 17:47:35 - 12/10/2026 19:24:50",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20261012-174735-27xn",
+      "publishedBy": "admiral-bellion",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 49,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20261008-174448-qyik",
       "title": "Flowsn",
