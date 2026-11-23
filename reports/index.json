@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261123-183841-7k4s",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-11-23T18:38:41.000Z",
+      "dateEnd": "2026-11-23T20:28:56.695Z",
+      "dateLabel": "23/11/2026 18:38:41 - 23/11/2026 20:28:56",
+      "url": "https://admiral-bellion.github.io/wvw-cup/?report=20261123-183841-7k4s",
+      "publishedBy": "admiral-bellion",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 41,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261116-182758-qecc",
       "title": "Flowsn",
       "commanders": [
